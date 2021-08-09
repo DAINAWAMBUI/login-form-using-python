@@ -1,0 +1,10 @@
+input("first name:")
+input("input middle name:")
+input("surname:")
+input("D.O.B:")
+input("your id number:")
+input("county of residence:")
+input("sub_county:")
+input("ward:")
+input("village:")
+
